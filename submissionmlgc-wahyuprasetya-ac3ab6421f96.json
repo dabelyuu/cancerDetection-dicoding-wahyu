@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-wahyuprasetya",
+  "private_key_id": "ac3ab6421f96a7e4da26ce1eb84e7179e7a91a40",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCjXMYY7W0Yvs7X\n4HhNTg0YPEKiAqM2YRRK0QdSP8bT5K2qayxWCkmsdwE/+ZIa2QTht3n9L5Id6AQ0\nASepVQErw7FnWK/SzwEYn1HY4tFN8nOyaCiq1CEb2Ypm3WcN6DW+r0qLN7xArwqs\n7yNotz5U4yfHWdZuzGTbM19skmiw0ZPe0yEenk3480ZnciUrX9F954N5z00Ox+x7\nnZ6lqMOV+yUgFjPWqyqaIranlj8j58y1KLG1FLFXCkGDbANcVeUs3FGr0g9HTR6R\nL+LA0b8OwnDBHgE8XRvXtzD+LBpxW0ALk7gs8ffukTjMig/OZuhxablBbJC7Lza5\nTpAR4+3JAgMBAAECgf9sqDDxJOXReDKUTw+ghUxKhqXA2Lce2jSs54/KqnHrP59n\n9swbc6domZU4oe5VSzf72l6vP4SP8glMmD6Xfz50jJM22Sw4mv79spIO/BJqYC90\n0RGUZI58fN8md1E2RQaKFO5eGLbiBgit3mv6oG8WamkSxGfZozj/MD6eWSv/8W+B\n5wQkNaMfoDSy+p6MlQ3xoVqs/MrJ7x2qQGUID6d9BUSXN1UJTeOTKT36iE726BCZ\ni6rsnzNU/siFJw83uCqUVghJNCMixo6CS20IvhQIXmZ0j1jNztkpUjRyUFB1hkdK\ntn7UqhBhYV0+dbulm1tMly7nxs9wV5p+sMxtoxkCgYEA2hsb0ojIKhLOwYqrEz/y\nk0rvqA/kkBi24cHZaaTzT2tmKpKYTgzyEdGJjTSv78ILA6kK0j0tS1iZNE4wXRRm\nKmcyVq53pRFUdt7ETNKWxuBEllu5hOqwBpP80fH+GA7tN1Di7vXO+qL6f4SXqjuY\nVqLqpa8uCJqEok+Mr4e76AUCgYEAv77KJCl+mSCUwGOUaOx9Mg45ZE3dm7cqLRg1\nD1Ayc5H+2N1d+yGzGnAoP8ZrRVqLK/Fw4aF5F00UBHiR/k4RZN80IR0H6uOscQ2S\nVAlQuSEh4Cca/c3/xhp/K74oHBHii/09HEDqFAKGdl/5lJZchGLdWCsSuvOYLuom\nuBcOLfUCgYBSWB/F+dxQfi9PRPJX3zHPSGB4/B8YBCyvyUczKpKt7mdxNU2JUjvm\nXEzpYfX2uDT+Wcj7HRvHsZiN9eMukTANXE7WCSKk0IkqI+rK8kr4pN1gQxskwpJY\nuXCfNxTuslv/IWu8OlO9ruCSWlYEcGGQfAvJJ/1iRCxFN3FvJ/janQKBgQCaSK0k\nDdNU6Rdn+nhHOMrABRv+7nx7OBWStWC0UqZVwcqauvxM/t+7TTXFoyVbZ7CGCj72\n/lOOATIzKsTmJ/DtBoBOiKp/QPTW/sGYJuqyG8vDLhQU1rWQtG9RRi/F7koos/qB\nCmaO9T02cKFFAvusdlR+BiKLFUiFr1i6VarOJQKBgDE70b6Q63lyHa/wX0wcseEy\n48STTcjvjsDEyRBvz2wXLzSfGzHlnwvWXtEUMqf5OLezyf+q5m0ZcXffyZEybfdR\nnJ/dy/+LyWBl4OCYX5CxZ2o5rA66x3mmFHpLeZ5+ieBK50Ig0Qh9gFWCiBkdjqas\nBmcL5UGIQSo/P2nYIfW1\n-----END PRIVATE KEY-----\n",
+  "client_email": "detection-firebase-history@submissionmlgc-wahyuprasetya.iam.gserviceaccount.com",
+  "client_id": "114106318262866546804",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/detection-firebase-history%40submissionmlgc-wahyuprasetya.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
