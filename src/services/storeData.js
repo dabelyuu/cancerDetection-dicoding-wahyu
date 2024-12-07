@@ -2,12 +2,12 @@
 
 // const path = require('path');
 
-// const pathKey = path.resolve('./submissionmlgc-wahyuprasetya-ac3ab6421f96.json')
+// const pathKey = path.resolve('./private_key')
 
 // async function storeData(id, data) {
 //   try {
 //     const db = new Firestore({
-//       projectId: 'submissionmlgc-wahyuprasetya',
+//       projectId: 'projectid',
 //       keyFilename: pathKey,
 //     });
 
